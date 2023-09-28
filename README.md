@@ -1,7 +1,7 @@
-Movie Recommendation System
+# Movie Recommendation System
 This Movie Recommendation System is a machine learning-based application that suggests personalized movie recommendations to users based on their preferences and movie-watching history. It employs advanced recommendation algorithms to provide a delightful movie-watching experience.
 
-Features:
+# Features:
 Personalized Recommendations: Get movie suggestions tailored to your unique tastes and preferences.
 
 Wide Movie Catalog: Explore a vast catalog of movies from various genres and eras.
@@ -14,19 +14,19 @@ Easy-to-Use Interface: An intuitive user interface makes it simple to search for
 
 Continuous Improvement: The recommendation system is constantly learning and improving, ensuring you discover movies you'll love.
 
-Getting Started:
+# Getting Started:
 Clone this repository to your local machine.
 
 Install the required dependencies.
 
 Run the application and start exploring personalized movie recommendations.
 
-Technologies Used:
+# Technologies Used:
 Python
-Machine Learning (scikit-learn, TensorFlow, or PyTorch)
+Machine Learning 
 Data Analysis (pandas)
-Web Development (Flask, Django, or your preferred web framework)
-Contributing:
+Web Development (Streamlit)
+# Contributing:
 Contributions are welcome! If you'd like to enhance this movie recommendation system, please fork the repository, make your improvements, and submit a pull request.
 
 Happy movie-watching!
