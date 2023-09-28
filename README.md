@@ -1,5 +1,5 @@
 # Movie Recommendation System
-This Movie Recommendation System is a machine learning-based application that suggests personalized movie recommendations to users based on their preferences and movie-watching history. It employs advanced recommendation algorithms to provide a delightful movie-watching experience.
+This Movie Recommendation System is a machine learning-based application that suggests personalized movie recommendations to users based on their preferences and movie-watching history. It employs advanced recommendation algorithms to provide a delightful movie-watching experience.<br>
 <a href="https://movierecommendationsystem-narendersoppoju.streamlit.app/">click here to view applictaion</a><br>
 <img src="https://www.passionateinmarketing.com/wp-content/uploads/2021/08/15.jpg" height="400" width="1000">
 
