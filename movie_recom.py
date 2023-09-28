@@ -1,6 +1,7 @@
 import streamlit as st
 import pandas as pd
 import pickle
+import sklearn
 
 def recom(movie):
     movie_index = movies_d[movies_d['title'] == movie].index[0]
@@ -38,7 +39,7 @@ def website(movie):
     
     
 
-movies_d = pickle.load(open("C:/Users/soppoju narender/Desktop/FS-DataScience/ML_module/Movie recommendation system/movies1.pkl",'rb'))
+movies_d = pickle.load(open("movies1.pkl",'rb'))
 #movies=pd.DataFrame(movies_d)
 def set_bg_hack_url():
     '''
@@ -67,7 +68,7 @@ option = st.selectbox("select a movie", movies_d['title'].values)
 
 
 
-similarity=pickle.load(open("C:/Users/soppoju narender/Desktop/FS-DataScience/ML_module/Movie recommendation system/similarity.pkl",'rb'))
+similarity=pickle.load(open("similarity.pkl",'rb'))
 
 
 
