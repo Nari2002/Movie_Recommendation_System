@@ -1,30 +1,29 @@
+<a href="https://movierecommendationsystem-narendersoppoju.streamlit.app/">click here to view applictaion</a><br>
+<img src="https://www.passionateinmarketing.com/wp-content/uploads/2021/08/15.jpg">
+
 # Movie Recommendation System
 This Movie Recommendation System is a machine learning-based application that suggests personalized movie recommendations to users based on their preferences and movie-watching history. It employs advanced recommendation algorithms to provide a delightful movie-watching experience.
 
 # Features:
 Personalized Recommendations: Get movie suggestions tailored to your unique tastes and preferences.
-
-Wide Movie Catalog: Explore a vast catalog of movies from various genres and eras.
-
-User Ratings: Rate movies you've watched to refine your recommendations further.
-
+genres,tagline,,etc we can get more features by writing simple functions..
+<br>
 Content-Based and Collaborative Filtering: The system combines content-based filtering, which considers movie attributes like genre and plot, with collaborative filtering, which identifies similar users for recommendations.
 
 Easy-to-Use Interface: An intuitive user interface makes it simple to search for movies and view recommendations.
 
-Continuous Improvement: The recommendation system is constantly learning and improving, ensuring you discover movies you'll love.
 
 # Getting Started:
-Clone this repository to your local machine.
+Clone this repository to your local machine.<br>
 
-Install the required dependencies.
+Install the required dependencies.<br>
 
 Run the application and start exploring personalized movie recommendations.
 
 # Technologies Used:
-Python
-Machine Learning 
-Data Analysis (pandas)
+Python<br>
+Machine Learning <br>
+Data Analysis (pandas)<br>
 Web Development (Streamlit)
 # Contributing:
 Contributions are welcome! If you'd like to enhance this movie recommendation system, please fork the repository, make your improvements, and submit a pull request.
